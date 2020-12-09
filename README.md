@@ -103,7 +103,7 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 Ket: Aktiv 24 jam
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi 👾ITSPAPOYBOTZ👾`](https://saweria.co/aris187id)
+* [`Donasi 💵ITSPAPOYBOTZ💵`](https://bit.ly/ClickDiSinii)
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">

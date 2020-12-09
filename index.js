@@ -1,16 +1,16 @@
 /*
 * JANGAN UBAH-UBAH INFO!!!
 * "JANGAN MODAL NAMA DOANG BRO!!!"
-* SCRIPT BY MASLENT 
+* SCRIPT BY ITSPAPOY 
 * JANGAN MODAL NAMA DOANG BOSQ
 * HARGAILAH YY MEMBUAT SCRIPT INI BOSQ
 * JANGAN UBAH-UBAH INFO!!!
-* MASLENT ID
+* ITSPAPOY
 * BOLEH UBAH TAPI KECUALI INFO!!!
 */
-const A187 = 'MASLENT'; // JANGAN UBAH-UBAH INFO!!!
-const instagram = 'https://instagram.com/_maslent11'; // JANGAN UBAH-UBAH INFO!!!
-const nomer = 'Wa.me/+628165466368'; // JANGAN UBAH-UBAH INFO!!!
+const A187 = 'ITSPAPOYBOTZ'; // JANGAN UBAH-UBAH INFO!!!
+const instagram = 'https://instagram.com/itspapoy'; // JANGAN UBAH-UBAH INFO!!!
+const nomer = '087714745440'; // JANGAN UBAH-UBAH INFO!!!
 const aktif = 'Tergantung jaringan'; // JANGAN UBAH-UBAH INFO!!!
 const groupwhatsapp = 'https://chat.whatsapp.com/JsredxazPdoIYrhijmAl94'; // JANGAN UBAH-UBAH INFO!!!
 const youtube = 'https://www.youtube.com/channel/UCAn_1yox-jIUFhUVYTxI_JA'; // JANGAN UBAH-UBAH INFO!!!

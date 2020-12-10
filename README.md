@@ -4,7 +4,7 @@
 </p>
 <br>
 
-<a href="https://github.com/TheDudeThatCode">
+<a href="https://github.com/itspapoy">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
 </a>
 

@@ -1,5 +1,6 @@
 ## ITSPAPOY BOTZ <img src="https://s7.gifyu.com/images/giphyd453822f10cd1ba6.gif" width="30px"> ![](https://visitor-badge.glitch.me/badge?page_id=itspapoy.botz)
 
+<p align="center">
 <img src="https://raw.github.com/itspapoy/botz/main/temp/IMG-20201208-WA0815.jpg" width="230" height="230"/>
 </p>
 <br>

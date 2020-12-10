@@ -19,6 +19,8 @@
 <a href="https://goreportcard.com/report/github.com/gjbae1212/hit-counter"><img src="https://goreportcard.com/badge/github.com/gjbae1212/hit-counter" alt="Go Report Card" /></a> 
 </p>
 
+<img src="https://res.cloudinary.com/itspapoy/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stat Themes" width="600px"/>
+
 <a href="https://github.com/itspapoy">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itspapoy&show_icons=true&theme=dark&line_height=27" alt="itspapoy github stats"/>
 </a>

@@ -25,6 +25,10 @@
 </a>
 
 <br>
+
+<a href="https://github.com/itspapoy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=botz&theme=dark&hide_langs_below=1" />
+</a>
 <!--
 ![itspapoy github stats](https://github-readme-stats.vercel.app/api?username=botz&show_icons=true&hide_border=true)
 -->

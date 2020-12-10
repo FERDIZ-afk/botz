@@ -84,7 +84,7 @@
 ### WARNING
 MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK SAYA.... DILARANG UBAH INFO!!!
 
-## NOTE:> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="29px">
+## NOTE <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="29px">
 SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA TERMUX
 </div>
 

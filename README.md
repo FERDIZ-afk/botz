@@ -20,6 +20,17 @@
 <a href="https://goreportcard.com/report/github.com/gjbae1212/hit-counter"><img src="https://goreportcard.com/badge/github.com/gjbae1212/hit-counter" alt="Go Report Card" /></a> 
 </p>
 
+<a href="https://github.com/TheDudeThatCode/Fun-with-DS-and-Algo">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheDudeThatCode&repo=Fun-with-DS-and-Algo&theme=dark" />
+</a>
+
+<br>
+<!--
+![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&hide_border=true)
+-->
+
+<br>
+
 
 <p align="center">
 <a href="#"><img title="👾ITSPAPOBOTZ👾" src="https://img.shields.io/badge/ITSPAPOYBOTZ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>

@@ -12,7 +12,7 @@ const A187 = 'ITSPAPOYBOTZ'; // JANGAN UBAH-UBAH INFO!!!
 const instagram = 'https://instagram.com/itspapoy'; // JANGAN UBAH-UBAH INFO!!!
 const nomer = '087714745440'; // JANGAN UBAH-UBAH INFO!!!
 const aktif = 'Tergantung jaringan'; // JANGAN UBAH-UBAH INFO!!!
-const urgent = 'https://bit.ly/ClickDiSinii'; // JANGAN UBAH-UBAH INFO!!!
+const groupwhatsapp = 'https://bit.ly/ClickDiSinii'; // JANGAN UBAH-UBAH INFO!!!
 const telegram = 'https://t.me/padlikodil'; // JANGAN UBAH-UBAH INFO!!!
 //A187ID
 const qrcode = require("qrcode-terminal");

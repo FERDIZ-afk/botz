@@ -41,8 +41,8 @@
     <a href="https://github.com/itspapoy/github-readme-stats/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/itspapoy/github-readme-stats?color=0088ff" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/itspapoy/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/itspapoy/github-readme-stats?color=0088ff" />
     </a>
     <br />
     <br />

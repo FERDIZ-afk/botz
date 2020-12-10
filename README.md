@@ -36,7 +36,7 @@
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a>
     <a href="https://codecov.io/gh/itspapoy/github-readme-stats">
-      <img src="https://codecov.io/gh/itspapoy/github-readme-stats/branch/master/graph/badge.svg" />
+      <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
     </a>
     <a href="https://github.com/itspapoy/github-readme-stats/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/itspapoy/github-readme-stats?color=0088ff" />

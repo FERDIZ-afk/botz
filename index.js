@@ -932,22 +932,22 @@ else if (text == '!foto'){
 conn.sendMessage(id, 'kirim !foto cewek/cowok\n\nContoh: !foto cewek' ,MessageType.text);
 }
 else if (text == '#help'){
-conn.sendMessage(id, ' _🦖TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ* , Kalo Urgent klik:bit.ly/ClickDiSinii' ,MessageType.text);
+conn.sendMessage(id, ' _🦖TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ* , Kalo Urgent klik:https://bit.ly/ClickDiSinii' ,MessageType.text);
 }
 else if (text == '#menu1'){
-conn.sendMessage(id, ' _🦖TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ* , Kalo Urgent klik:bit.ly/ClickDiSinii' ,MessageType.text);
+conn.sendMessage(id, ' _🦖TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ* , Kalo Urgent klik:https://bit.ly/ClickDiSinii' ,MessageType.text);
 }
 else if (text == '#menu'){
-conn.sendMessage(id, ' _🦖TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ* , Kalo Urgent klik:bit.ly/ClickDiSinii' ,MessageType.text);
+conn.sendMessage(id, ' _🦖TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ* , Kalo Urgent klik:https://bit.ly/ClickDiSinii' ,MessageType.text);
 }
 else if (text == '#menu2'){
-conn.sendMessage(id, ' _🦖TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ* , Kalo Urgent klik:bit.ly/ClickDiSinii' ,MessageType.text);
+conn.sendMessage(id, ' _🦖TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ* , Kalo Urgent klik:https://bit.ly/ClickDiSinii' ,MessageType.text);
 }
 else if (text == '#menu3'){
-conn.sendMessage(id, ' _🦖TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ* , Kalo Urgent klik:bit.ly/ClickDiSinii' ,MessageType.text);
+conn.sendMessage(id, ' _🦖TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ* , Kalo Urgent klik:https://bit.ly/ClickDiSinii' ,MessageType.text);
 }
 else if (text == '#menu4'){
-conn.sendMessage(id, ' _🦖TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ* , Kalo Urgent klik:bit.ly/ClickDiSinii' ,MessageType.text);
+conn.sendMessage(id, ' _🦖TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ* , Kalo Urgent klik:https://bit.ly/ClickDiSinii' ,MessageType.text);
 }
    if (messageType == 'imageMessage')
    {

@@ -38,6 +38,8 @@
 
 <br>
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itspapoy&repo=github-readme-stats&show_owner=true)](https://github.com/itspapoy/github-readme-stats)
+
 <p align="center">
     <a href="https://github.com/itspapoy/github-readme-stats/actions">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />

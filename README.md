@@ -20,13 +20,13 @@
 <a href="https://goreportcard.com/report/github.com/gjbae1212/hit-counter"><img src="https://goreportcard.com/badge/github.com/gjbae1212/hit-counter" alt="Go Report Card" /></a> 
 </p>
 
-<a href="https://github.com/botz/Fun-with-DS-and-Algo">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itspapoy&repo=Fun-with-DS-and-Algo&theme=dark" />
+<a href="https://github.com/itspapoy/Fun-with-DS-and-Algo">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=botz&repo=Fun-with-DS-and-Algo&theme=dark" />
 </a>
 
 <br>
 <!--
-![itspapoy github stats](https://github-readme-stats.vercel.app/api?username=itspapoy&show_icons=true&hide_border=true)
+![itspapoy github stats](https://github-readme-stats.vercel.app/api?username=botz&show_icons=true&hide_border=true)
 -->
 
 <br>

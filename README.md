@@ -109,7 +109,7 @@ Ket: Aktiv 24 jam
 * [`Donasi 💵ITSPAPOYBOTZ💵`](https://bit.ly/ClickDiSinii)
 
 
-## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/developer.gif" width="29px">
+## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px">
 
 * [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
 * [`Instagram Admin`](https://instagram.com/itspapoy)

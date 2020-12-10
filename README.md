@@ -1,5 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Itspapoybotz
-<p align="center"> <img src="https://s7.gifyu.com/images/giphyd453822f10cd1ba6.gif" width="30px"> 
+## ITSPAPOY BOTZ <img src="https://s7.gifyu.com/images/giphyd453822f10cd1ba6.gif" width="30px"> 
 ![](https://visitor-badge.glitch.me/badge?page_id=itspapoy.botz)
 ---
 

@@ -12,8 +12,8 @@ const A187 = 'ITSPAPOYBOTZ'; // JANGAN UBAH-UBAH INFO!!!
 const instagram = 'https://instagram.com/itspapoy'; // JANGAN UBAH-UBAH INFO!!!
 const nomer = '087714745440'; // JANGAN UBAH-UBAH INFO!!!
 const aktif = 'Tergantung jaringan'; // JANGAN UBAH-UBAH INFO!!!
-const groupwhatsapp = 'https://chat.whatsapp.com/JsredxazPdoIYrhijmAl94'; // JANGAN UBAH-UBAH INFO!!!
-const youtube = 'https://www.youtube.com/channel/UCAn_1yox-jIUFhUVYTxI_JA'; // JANGAN UBAH-UBAH INFO!!!
+const urgent = 'https://bit.ly/ClickDiSinii'; // JANGAN UBAH-UBAH INFO!!!
+const telegram = 'https://t.me/padlikodil'; // JANGAN UBAH-UBAH INFO!!!
 //A187ID
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
@@ -64,7 +64,7 @@ conn.on('qr', qr =>
    {
       small: true
    });
-   console.log(`[ ${moment().format("HH:mm:ss")} ] BANGLENTS ready scan now!`);
+   console.log(`[ ${moment().format("HH:mm:ss")} ] ITSPAPOYBOZ ready scan now!`);
 });
 
 conn.on('credentials-updated', () =>
@@ -79,11 +79,11 @@ fs.existsSync('./session.json') && conn.loadAuthInfo('./session.json')
 //conn.connectOptions.agent = ProxyAgent ('http://1.0.180.120:8080')
 conn.connect();
 
-conn.on('user-presence-update', json => console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by @_BANGLENT`))
+conn.on('user-presence-update', json => console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by @ITSPAPOYBOTZ`))
 conn.on('message-status-update', json =>
 {
    const participant = json.participant ? ' (' + json.participant + ')' : '' // participant exists when the message is from a group
-   console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by @_BANGLENT`)
+   console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by @ITSPAPOYBOTZ`)
 })
 
 conn.on('message-new', async(m) =>

@@ -64,7 +64,7 @@ conn.on('qr', qr =>
    {
       small: true
    });
-   console.log(`[ ${moment().format("HH:mm:ss")} ] BANGLENTS ready scan now!`);
+   console.log(`[ ${moment().format("HH:mm:ss")} ] ITSPAPOYBOTZ ready scan now!`);
 });
 
 conn.on('credentials-updated', () =>

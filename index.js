@@ -151,10 +151,10 @@ else if (text == 'Asu'){
 conn.sendMessage(id, 'Lu Asw' ,MessageType.text);
 }
 else if (text == '#owner'){
-conn.sendMessage(id, ' *Owner MASLENT11 wa.me/+628165466368* ' ,MessageType.text);
+conn.sendMessage(id, ' *Owner FADHLI bit.ly/ClickDiSinii* ' ,MessageType.text);
 }
 else if (text == '#help'){
-conn.sendMessage(id, ' *Menampilkan Pilihan Menu!!!* ' ,MessageType.text);
+conn.sendMessage(id, ' *Menampilkan Fitur Menu!!!* ' ,MessageType.text);
 }
 else if (text == '#menu1'){
 conn.sendMessage(id, ' *Menampilkan Fitur Menu1!!!* ' ,MessageType.text);
@@ -172,10 +172,10 @@ else if (text == '#info'){
 conn.sendMessage(id, ' *Menampilkan Info!!!* ' ,MessageType.text);
 }
 else if (text == '#donasi'){
-conn.sendMessage(id, ' *Menampilkan Donasi!!!* ' ,MessageType.text);
+conn.sendMessage(id, ' *Ah Mantab!!!* ' ,MessageType.text);
 }
 else if (text == '#creator'){
-conn.sendMessage(id, ' *Creator Maslent wa.me/+628165466368* ' ,MessageType.text);
+conn.sendMessage(id, ' *Creator FADHLI bit.ly/ClixkDiSinii* ' ,MessageType.text);
 }
 else if (text == 'Pagi'){
 conn.sendMessage(id, ' _Pagi juga, Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
@@ -222,14 +222,14 @@ conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#
 else if (text == 'Bro'){
 conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
-else if (text == 'Min'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+else if (text == 'oghey'){
+conn.sendMessage(id, ' Ngoghey xixi ' ,MessageType.text);
 }
 else if (text == 'Sayang'){
 conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'I love u'){
-conn.sendMessage(id, ' _love you too😻_ ' ,MessageType.text);
+conn.sendMessage(id, ' _love you too👻_ ' ,MessageType.text);
 }
 else if (text == 'Mas'){
 conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);

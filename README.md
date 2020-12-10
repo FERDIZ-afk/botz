@@ -21,7 +21,7 @@
 </p>
 
 <a href="https://github.com/itspapoy/Fun-with-DS-and-Algo">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=botz&repo=Fun-with-DS-and-Algo&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheDudeThatCode&repo=Fun-with-DS-and-Algo&theme=dark" />
 </a>
 
 <br>

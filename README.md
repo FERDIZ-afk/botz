@@ -20,10 +20,10 @@
 <p align="center">
 </p>
 <p align="center">
-<a href="https://github.com/itspapoy/botz/followers"><img title="Followers" src="https://img.shields.io/github/followers/A187ID?color=blue&style=flat-square"></a>
-<a href="https://github.com/itspapoy/botz/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/A187ID/AR15BOT?color=red&style=flat-square"></a>
-<a href="https://github.com/itspapoy/botz/network/members"><img title="Forks" src="https://img.shields.io/github/forks/A187ID/AR15BOT?color=red&style=flat-square"></a>
-<a href="https://github.com/itspapoy/botz/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/A187ID/AR15BOT?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/itspapoy/botz/followers"><img title="Followers" src="https://img.shields.io/github/followers/itspapoy?color=blue&style=flat-square"></a>
+<a href="https://github.com/itspapoy/botz/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/itspapoy/botz?color=red&style=flat-square"></a>
+<a href="https://github.com/itspapoy/botz/network/members"><img title="Forks" src="https://img.shields.io/github/forks/itspapoy/botz?color=red&style=flat-square"></a>
+<a href="https://github.com/itspapoy/botz/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/itspapoy/botz?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FF0000&title_bg=%23555555&icon=symantec.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 

@@ -65,7 +65,7 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 > Tinggal scan kode qr yeee...done
 ```
 
-## FEATURES  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
+## FEATURES  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="29px">
 
 | ITSPAPOYBOTZ      |                   Feature        |
 | :-----------: | :------------------------------: |

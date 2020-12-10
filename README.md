@@ -5,7 +5,7 @@
 <br>
 
 <a href="https://github.com/itspapoy">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&theme=dark&line_height=27" alt="itspapoy github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=itspapoy&show_icons=true&theme=dark&line_height=27" alt="itspapoy github stats"/>
 </a>
 
 <a href="https://circleci.com/gh/gjbae1212/hit-counter"><img src="https://circleci.com/gh/gjbae1212/hit-counter.svg?style=svg"></a>

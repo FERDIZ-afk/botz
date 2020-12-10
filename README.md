@@ -7,7 +7,6 @@
 [![npm version](https://img.shields.io/npm/v/botz.svg)](https://www.npmjs.com/package/botz)
 [![Downloads](https://img.shields.io/npm/dm/eslint.svg)](https://www.npmjs.com/package/eslint)
 [![Build Status](https://github.com/eslint/eslint/workflows/CI/badge.svg)](https://github.com/itspapoy/botz/actions)
-
 [![npm](https://img.shields.io/npm/v/whatsapp-web.js.svg)](https://www.npmjs.com/package/whatsapp-web.js)
 [![Depfu](https://badges.depfu.com/badges/4a65a0de96ece65fdf39e294e0c8dcba/overview.svg)](https://depfu.com/github/pedroslopez/whatsapp-web.js?project_id=9765)
 ![WhatsApp_Web 2.20.206.24](https://img.shields.io/badge/WhatsApp_Web-2.20.206.24-brightgreen.svg)

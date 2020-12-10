@@ -11,14 +11,14 @@
 <br />
 [![npm](https://img.shields.io/npm/v/whatsapp-web.js.svg)](https://www.npmjs.com/package/whatsapp-web.js) [![Depfu](https://badges.depfu.com/badges/4a65a0de96ece65fdf39e294e0c8dcba/overview.svg)](https://depfu.com/github/pedroslopez/whatsapp-web.js?project_id=9765) ![WhatsApp_Web 2.20.206.24](https://img.shields.io/badge/WhatsApp_Web-2.20.206.24-brightgreen.svg)
 
-<a href="https://github.com/itspapoy">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=itspapoy&show_icons=true&theme=dark&line_height=27" alt="itspapoy github stats"/>
-</a>
-
 <a href="https://circleci.com/gh/gjbae1212/hit-counter"><img src="https://circleci.com/gh/gjbae1212/hit-counter.svg?style=svg"></a>
 <a href="/LICENSE"><img src="https://img.shields.io/badge/license-GPL-blue.svg" alt="license" /></a>
 <a href="https://goreportcard.com/report/github.com/gjbae1212/hit-counter"><img src="https://goreportcard.com/badge/github.com/gjbae1212/hit-counter" alt="Go Report Card" /></a> 
 </p>
+
+<a href="https://github.com/itspapoy">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=itspapoy&show_icons=true&theme=dark&line_height=27" alt="itspapoy github stats"/>
+</a>
 
 <a href="https://github.com/itspapoy/Fun-with-DS-and-Algo">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheDudeThatCode&repo=Fun-with-DS-and-Algo&theme=dark" />

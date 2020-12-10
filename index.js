@@ -1,19 +1,19 @@
 /*
 * JANGAN UBAH-UBAH INFO!!!
 * "JANGAN MODAL NAMA DOANG BRO!!!"
-* SCRIPT BY MASLENT 
+* SCRIPT BY ITSPAPOYBOTZ 
 * JANGAN MODAL NAMA DOANG BOSQ
-* HARGAILAH YY MEMBUAT SCRIPT INI BOSQ
+* HARGAILAH YG MEMBUAT SCRIPT INI BOSQ
 * JANGAN UBAH-UBAH INFO!!!
-* MASLENT ID
+* ITSPAPOY BOTZ
 * BOLEH UBAH TAPI KECUALI INFO!!!
 */
-const A187 = 'MASLENT'; // JANGAN UBAH-UBAH INFO!!!
-const instagram = 'https://instagram.com/_maslent11'; // JANGAN UBAH-UBAH INFO!!!
-const nomer = 'Wa.me/+628165466368'; // JANGAN UBAH-UBAH INFO!!!
-const aktif = 'Tergantung jaringan'; // JANGAN UBAH-UBAH INFO!!!
-const groupwhatsapp = 'https://chat.whatsapp.com/JsredxazPdoIYrhijmAl94'; // JANGAN UBAH-UBAH INFO!!!
-const youtube = 'https://www.youtube.com/channel/UCAn_1yox-jIUFhUVYTxI_JA'; // JANGAN UBAH-UBAH INFO!!!
+const A187 = 'ITSPAPOYBOTZ'; // JANGAN UBAH-UBAH INFO!!!
+const instagram = 'https://instagram.com/itspapoy'; // JANGAN UBAH-UBAH INFO!!!
+const nomer = '087714745440'; // JANGAN UBAH-UBAH INFO!!!
+const aktif = 'Tergantung Kuota Wifi'; // JANGAN UBAH-UBAH INFO!!!
+const groupwhatsapp = 'https://chat.whatsapp.com/Kjv5IWzNIeCBSaH4lJKX8v'; // JANGAN UBAH-UBAH INFO!!!
+const youtube = 'https://youtube.com/channel/UCat4laLWRIeTszIuCZ1_O1Q'; // JANGAN UBAH-UBAH INFO!!!
 //A187ID
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
@@ -79,11 +79,11 @@ fs.existsSync('./session.json') && conn.loadAuthInfo('./session.json')
 //conn.connectOptions.agent = ProxyAgent ('http://1.0.180.120:8080')
 conn.connect();
 
-conn.on('user-presence-update', json => console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by @_BANGLENT`))
+conn.on('user-presence-update', json => console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by @ITSPAPOYBOTZ`))
 conn.on('message-status-update', json =>
 {
    const participant = json.participant ? ' (' + json.participant + ')' : '' // participant exists when the message is from a group
-   console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by @_BANGLENT`)
+   console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by @ITSPAPOYBOTZ`)
 })
 
 conn.on('message-new', async(m) =>
@@ -280,7 +280,7 @@ if (text.includes('!nulis')){
       imageToBase64(res.data.result)
         .then(
           (ress) => {
-            conn.sendMessage(id, '[WAIT] Searching...❗', MessageType.text)
+            conn.sendMessage(id, '[WAIT] ProsessGaess...❗', MessageType.text)
             var buf = Buffer.from(ress, 'base64')
             conn.sendMessage(id, buf, MessageType.image)
         })
@@ -293,7 +293,7 @@ if (text.includes('!tts')){
       audioToBase64(res.data.result)
         .then(
           (ress) => {
-            conn.sendMessage(id, '[WAIT] Searching...❗', MessageType.text)
+            conn.sendMessage(id, '[WAIT] ProsessGaess...❗', MessageType.text)
             var buf = Buffer.from(ress, 'base64')
             conn.sendMessage(id, buf, MessageType.audio)
         })
@@ -346,7 +346,7 @@ axios.get(`https://alfians-api.herokuapp.com/api/ytv?url=${teks}`).then((res) =>
 if (text.includes("!twt")){
 const teks = text.replace(/!twt /, "")
 axios.get(`https://mhankbarbar.herokuapp.com/api/twit?url=${teks}&apiKey=zFuV88pxcIiCWuYlwg57`).then((res) => {
-	conn.sendMessage(id, '[WAIT] Searching...❗', MessageType.text)
+	conn.sendMessage(id, '[WAIT] ProsessGaess...❗', MessageType.text)
     let hasil = `âœ…Berhasil$ silahkan klik link di bawah untuk mendownload hasilnya$\nKlik link dibawahðŸ—¡ï¸\n\nSize: ${res.data.filesize}\n\nLink: ${res.data.result}`;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
@@ -357,7 +357,7 @@ axios.get(`https://mhankbarbar.herokuapp.com/api/twit?url=${teks}&apiKey=zFuV88p
 if (text.includes("!tiktok")) {
 const tictoc = text.replace(/!tiktok /, "")
 axios.get(`http://scrap.terhambar.com/tiktokfull?link=${tictoc}`).then((res) => {
-	 conn.sendMessage(id, '[WAIT] Searching...❗', MessageType.text)
+	 conn.sendMessage(id, '[WAIT] ProsessGaess...❗', MessageType.text)
      let titoe = `âœ…Berhasil$$$ Silahkan klik link dibawah ini untuk mendownload hasilnya$ \nKlik link dibawahðŸ—¡ï¸\n\nJudul: ${res.data.deskripsi} \n\nDurasi: ${res.data.durasi}\n\nNama: ${res.data.nama}\n\nUrl: ${res.data.urlvideo}`;
 conn.sendMessage(id, titoe, MessageType.text);
 })
@@ -382,7 +382,7 @@ axios.get(`https://alfians-api.herokuapp.com/api/ig?url=${teks}`).then((res) => 
 if (text.includes("!wiki")){
 const teks = text.replace(/!wiki /, "")
 axios.get(`https://arugaz.herokuapp.com/api/wiki?q=${teks}`).then((res) => {
-	conn.sendMessage(id, '[WAIT] Searching...❗', MessageType.text)
+	conn.sendMessage(id, '[WAIT] ProsessGaess...❗', MessageType.text)
     let hasil = ` *👩‍💻Menurut Wikipedia:👩‍💻* \n\n _${res.data.result}_ `;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
@@ -390,7 +390,7 @@ axios.get(`https://arugaz.herokuapp.com/api/wiki?q=${teks}`).then((res) => {
 if (text.includes("!wikien")){
 const teks = text.replace(/!wikien /, "")
 axios.get(`https://arugaz.herokuapp.com/api/wikien?q=${teks}`).then((res) => {
-	conn.sendMessage(id, '[WAIT] Searching...❗', MessageType.text)
+	conn.sendMessage(id, '[WAIT] ProsessGaess...❗', MessageType.text)
     let hasil = ` *👩‍💻According to Wikipedia:👩‍💻* \n\n _${res.data.result}_ `;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
@@ -398,7 +398,7 @@ axios.get(`https://arugaz.herokuapp.com/api/wikien?q=${teks}`).then((res) => {
 if (text.includes("!sholat")){
   const teks = text.replace(/!sholat /, "")
   axios.get(`https://api.haipbis.xyz/jadwalsholat?daerah=${teks}`).then ((res) =>{
-  conn.sendMessage(id, '[WAIT] Searching...❗', MessageType.text)
+  conn.sendMessage(id, '[WAIT] ProsessGaess...❗', MessageType.text)
   let hasil = `Jadwal sholat di ${teks} hari ini adalah\n\nImsyak : ${res.data.Imsyak}\nSubuh : ${res.data.Subuh} WIB\nDzuhur : ${res.data.Dzuhur}WIB\nAshar : ${res.data.Ashar} WIB\nMaghrib : ${res.data.Maghrib}\nIsya : ${res.data.Isya} WIB\nTengah malam : ${res.data.Dhuha} WIB`;
   conn.sendMessage(id, hasil, MessageType.text);
 })
@@ -406,7 +406,7 @@ if (text.includes("!sholat")){
 if (text.includes("!harinasional")){
   const teks = text.replace(/!harinasional /, "")
   axios.get(`https://api.haipbis.xyz/harinasional?tanggal=${teks}`).then ((res) =>{
-  conn.sendMessage(id, '[WAIT] Searching...❗', MessageType.text)
+  conn.sendMessage(id, '[WAIT] ProsessGaess...❗', MessageType.text)
   let hasil = `menurut tanggal ${teks} adalah\n\n *Tanggal* : _${res.data.tanggal}_ \n *Keterangan* : _${res.data.keterangan}_ `;
   conn.sendMessage(id, hasil, MessageType.text);
 })
@@ -423,7 +423,7 @@ axios.get('https://api.banghasan.com/quran/format/json/acak').then((res) => {
 if (text.includes("!bitly")){
 const teks = text.replace(/!bitly /, "")
 axios.get(`https://api.haipbis.xyz/bitly?url=${teks}`).then((res) => {
-	conn.sendMessage(id, '[WAIT] Searching...❗', MessageType.text)
+	conn.sendMessage(id, '[WAIT] ProsessGaess...❗', MessageType.text)
     let hasil = `nih kak :) \n\n${res.data.result}`;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
@@ -431,7 +431,7 @@ axios.get(`https://api.haipbis.xyz/bitly?url=${teks}`).then((res) => {
 if (text.includes("!puisi1")){
 const teks = text.replace(/!puisi1 /, "")
 axios.get(`https://arugaz.herokuapp.com/api/puisi1`).then((res) => {
-conn.sendMessage(id, '[WAIT] Searching...❗', MessageType.text)
+conn.sendMessage(id, '[WAIT] ProsessGaess...❗', MessageType.text)
     let hasil = ` *Nih Puisinya Kak :)*\n\n _${res.data.result}_ `;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
@@ -439,7 +439,7 @@ conn.sendMessage(id, '[WAIT] Searching...❗', MessageType.text)
 if (text.includes("!puisi2")){
 const teks = text.replace(/!puisi2 /, "")
 axios.get(`https://arugaz.herokuapp.com/api/puisi3`).then((res) => {
-conn.sendMessage(id, '[WAIT] Searching...❗', MessageType.text)
+conn.sendMessage(id, '[WAIT] ProsessGaess...❗', MessageType.text)
     let hasil = ` *Nih Puisinya Kak :)*\n\n _${res.data.result}_ `;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
@@ -447,7 +447,7 @@ conn.sendMessage(id, '[WAIT] Searching...❗', MessageType.text)
 if (text.includes("!cerpen")){
 const teks = text.replace(/!cerpen /, "")
 axios.get(`https://arugaz.herokuapp.com/api/cerpen`).then((res) => {
-conn.sendMessage(id, '[WAIT] Searching...❗', MessageType.text)
+conn.sendMessage(id, '[WAIT] ProsessGaess...❗', MessageType.text)
     let hasil = ` *Nih cerpen Kak :)*\n\n _${res.data.result}_ `;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
@@ -455,7 +455,7 @@ conn.sendMessage(id, '[WAIT] Searching...❗', MessageType.text)
 if (text.includes("!cersex")){
 const teks = text.replace(/!cersex /, "")
 axios.get(`https://arugaz.herokuapp.com/api/cersex2`).then((res) => {
-conn.sendMessage(id, '[WAIT] Searching...❗', MessageType.text)
+conn.sendMessage(id, '[WAIT] ProsessGaess...❗', MessageType.text)
     let hasil = ` *Nih cersex Kak :)*\n\n _${res.data.result}_ `;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
@@ -463,7 +463,7 @@ conn.sendMessage(id, '[WAIT] Searching...❗', MessageType.text)
 if (text.includes("!quotes1")){
 const teks = text.replace(/!quotes1 /, "")
 axios.get(`https://arugaz.herokuapp.com/api/randomquotes`).then((res) => {
-conn.sendMessage(id, '[WAIT] Searching...❗', MessageType.text)
+conn.sendMessage(id, '[WAIT] ProsessGaess...❗', MessageType.text)
     let hasil = ` *Nih Quotes Kak :)*\n\n *Author* : _${res.data.author}_ \n\n *Quotes* : _${res.data.quotes}_ `;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
@@ -932,22 +932,22 @@ else if (text == '!foto'){
 conn.sendMessage(id, 'kirim !foto cewek/cowok\n\nContoh: !foto cewek' ,MessageType.text);
 }
 else if (text == '#help'){
-conn.sendMessage(id, ' _💌️TERIMAKASIH Telah Menggunakan BOT *🇮🇩MASLENT🇮🇩* , Subscribe Youtube Maslent Yah Cara Membuat bot via Android:https://www.youtube.com/channel/UCAn_1yox-jIUFhUVYTxI_JA' ,MessageType.text);
+conn.sendMessage(id, ' _🦖TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ* , Kalo Urgent klik:bit.ly/ClickDiSinii' ,MessageType.text);
 }
 else if (text == '#menu1'){
-conn.sendMessage(id, ' _💌️TERIMAKASIH Telah Menggunakan BOT *🇮🇩MASLENT🇮🇩* , Subscribe Youtube Maslent Yah Cara Membuat bot via Android:https://www.youtube.com/channel/UCAn_1yox-jIUFhUVYTxI_JA' ,MessageType.text);
+conn.sendMessage(id, ' _🦖TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ* , Kalo Urgent klik:bit.ly/ClickDiSinii' ,MessageType.text);
 }
 else if (text == '#menu'){
-conn.sendMessage(id, ' _💌️TERIMAKASIH Telah Menggunakan BOT *🇮🇩MASLENT🇮🇩* , Subscribe Youtube Maslent Yah Cara Membuat bot via Android:https://www.youtube.com/channel/UCAn_1yox-jIUFhUVYTxI_JA' ,MessageType.text);
+conn.sendMessage(id, ' _🦖TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ* , Kalo Urgent klik:bit.ly/ClickDiSinii' ,MessageType.text);
 }
 else if (text == '#menu2'){
-conn.sendMessage(id, ' _💌️TERIMAKASIH Telah Menggunakan BOT *🇮🇩MASLENT🇮🇩* , Subscribe Youtube Maslent Yah Cara Membuat bot via Android:https://www.youtube.com/channel/UCAn_1yox-jIUFhUVYTxI_JA' ,MessageType.text);
+conn.sendMessage(id, ' _🦖TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ* , Kalo Urgent klik:bit.ly/ClickDiSinii' ,MessageType.text);
 }
 else if (text == '#menu3'){
-conn.sendMessage(id, ' _💌TERIMAKASIH Telah Menggunakan BOT *🇮🇩MASLENT🇮🇩* , Subscribe Youtube Maslent Yah Cara Membuat bot via Android:https://www.youtube.com/channel/UCAn_1yox-jIUFhUVYTxI_JA' ,MessageType.text);
+conn.sendMessage(id, ' _🦖TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ* , Kalo Urgent klik:bit.ly/ClickDiSinii' ,MessageType.text);
 }
 else if (text == '#menu4'){
-conn.sendMessage(id, ' _💌️TERIMAKASIH Telah Menggunakan BOT *🇮🇩MASLENT🇮🇩* , Subscribe Youtube Maslent Yah Cara Membuat bot via Android:https://www.youtube.com/channel/UCAn_1yox-jIUFhUVYTxI_JA' ,MessageType.text);
+conn.sendMessage(id, ' _🦖TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ* , Kalo Urgent klik:bit.ly/ClickDiSinii' ,MessageType.text);
 }
    if (messageType == 'imageMessage')
    {
@@ -1270,7 +1270,7 @@ if (text.includes("!alay")){
 	})
 }
 
-//Tolonglah bro jangan di ubah ubah maslent ID
+//Tolonglah bro jangan di ubah ubah ITSPAPOY BOTZ
 
 
 })

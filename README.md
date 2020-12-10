@@ -107,7 +107,6 @@ Ket: Aktiv 24 jam
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px">
 
-* [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
 * [`Instagram Admin`](https://instagram.com/itspapoy)
 * [`Contact `](https://bit.ly/ClikDiSinii)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">

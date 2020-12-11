@@ -95,20 +95,17 @@
  
  [ClickDiSini](https://linktrr.e/ltspapoy)
  
-<summary>My WhatsApp BOT?Click<summary>
+<summary>My WhatsApp BOT<summary>
 
  [My WhatsApp BOT](https://api.whatsapp.com/message/SUZSHUDBG3VGC1)
  
 </details>
 
-<p align="center"><a href="https://api.whatsapp.com/message/SUZAHUDBG3VGC1" target="_blank">My Whatsapp BOT</a>.</p>
-</div>
-
 ### WARNING
 MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK SAYA.... DILARANG UBAH INFO!!!
 
 ## NOTE <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="29px">
-SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA TERMUX
+SCRIPTNYA TIDAK DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA TERMUX
 </div>
 
 ### ALAT DAN BAHAN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="29px">

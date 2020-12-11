@@ -91,10 +91,14 @@
 <div align="center">
 <details>
  
+ <summary>🌬️ Click!</summary>
+ 
+ [ClickDiSini](https://bit.ly/ClickDiSinik)
+ 
+</details>
+
 <p align="center"><a href="https://api.whatsapp.com/message/SUZAHUDBG3VGC1" target="_blank">My Whatsapp BOT</a>.</p>
 </div>
-
-</details>
 
 ### WARNING
 MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK SAYA.... DILARANG UBAH INFO!!!

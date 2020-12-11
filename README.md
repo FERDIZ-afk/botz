@@ -91,11 +91,11 @@
 <div align="center">
 <details>
  
- <summary>Information?Click</summary>
+ <summary>ClickHere</summary>
  
- [ClickDiSini](https://linktrr.e/ltspapoy)
+ [Information](https://linktrr.e/ltspapoy)
  
-<summary><summary>
+ <summary><summary>
 
  [My WhatsApp BOT](https://api.whatsapp.com/message/SUZSHUDBG3VGC1)
  

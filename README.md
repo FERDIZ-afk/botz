@@ -91,9 +91,9 @@
 <div align="center">
 <details>
  
- <summary>🌬️ Click!</summary>
+ <summary>Information?Click</summary>
  
- [ClickDiSini](https://bit.ly/ClickDiSinik)
+ [ClickDiSini](https://linktrr.e/ltspapoy)
  
 </details>
 

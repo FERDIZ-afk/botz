@@ -112,12 +112,13 @@ SCRIPTNYA TIDAK DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA T
 Siapin alat dan bahannya.
 ```bash
 > niat
-> 2 handphone (1 buat jalanin sc, 1 buat scan kode qr kak)
-> jaringan internet kenceng,kuota+
-> penyimpanan yang memadai
+> 2 handphone (1 buat jalanin sc, 1 buat scan kode qr yee)
+> jaringan internet jebrett ++
+> penyimpanan internal yang cukup 
 > aplikasi whatsapp
 > aplikasi termux
-> kopi+rokok ;v
+> ngopi brou
+> dah gass ajalahh
 ```
 
 ### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
@@ -172,10 +173,10 @@ Siapin alat dan bahannya.
 |       ✅       | 18+.                             |
 |                   MORE  Fitur                     |
 
-Ket: Aktiv 24 jam
+Ket: Aktif
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi 💵ITSPAPOYBOTZ💵`](https://bit.ly/ClickDiSinii)
+* [`Donasi ITSPAPOYBOTZ`](https://bit.ly/ClickDiSinii)
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px">

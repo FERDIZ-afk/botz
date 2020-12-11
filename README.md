@@ -9,7 +9,7 @@
 
   <em> 
     1 2 3 <b>Ngoghey Ngoghey Ngoghey</a>.  
-    Ngoghey Ngoghey Ngoghey Ngoghey<b>Ngoghey Ngoghey Ini Depeloper Ngoghey</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Design    Ngoghey,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
+    Ngoghey Ngoghey Ngoghey Ngoghey<b> Ngoghey Ini Depeloper Ngoghey</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Design    Ngoghey,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
     Ngoghey Ngoghey Ngoghey Ngoghey<b>Ngoghey</b> Ngoghey <b>ngoghey</b> to 
     <b>Ini Rocket Ngoghey</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>Ini Medal Ngoghey.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">

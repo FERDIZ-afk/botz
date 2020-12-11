@@ -5,7 +5,7 @@
 </p>
 <br>
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Pc.gif" width="59px">
+PC <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Pc.gif" width="59px">
 
 [![npm version](https://img.shields.io/npm/v/botz.svg)](https://www.npmjs.com/package/botz)
 [![Downloads](https://img.shields.io/npm/dm/eslint.svg)](https://www.npmjs.com/package/eslint)

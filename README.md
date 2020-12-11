@@ -123,8 +123,11 @@ Siapin alat dan bahannya.
 
 ### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
 ```bash
-> kalo lu belum punya apk termux, download di playstore
+> kalo belom punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
+> pkg upgrade y , n , n
+> pkg update
+> pkg instal git
 > termux-setup-storage
 > pkg install git && pkg install tesseract && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade

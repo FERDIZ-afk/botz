@@ -5,6 +5,8 @@
 </p>
 <br>
 
+<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
+
 [![npm version](https://img.shields.io/npm/v/botz.svg)](https://www.npmjs.com/package/botz)
 [![Downloads](https://img.shields.io/npm/dm/eslint.svg)](https://www.npmjs.com/package/eslint)
 [![Build Status](https://github.com/eslint/eslint/workflows/CI/badge.svg)](https://github.com/itspapoy/botz/actions)

@@ -5,8 +5,18 @@
 </p>
 <br>
 
-_Ngoghey_
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
+
+p>
+  <em> 
+    Ngoghey Ngoghey Ngoghey Ngoghey Ngoghey Ngoghey Ngoghey Ngoghey Ngoghey Ngoghey Ngoghey Ngoghey</b>, Ngoghey Ngoghey Ngoghey</a>.  
+    A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
+    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
+    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
+    <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
+  </em>  
+</p>
+
 
 [![npm version](https://img.shields.io/npm/v/botz.svg)](https://www.npmjs.com/package/botz)
 [![Downloads](https://img.shields.io/npm/dm/eslint.svg)](https://www.npmjs.com/package/eslint)

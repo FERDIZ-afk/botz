@@ -11,7 +11,7 @@
 const A187 = 'ITSPAPOYBOTZ'; // JANGAN UBAH-UBAH INFO!!!
 const instagram = 'https://instagram.com/itspapoy'; // JANGAN UBAH-UBAH INFO!!!
 const nomer = '087714745440'; // JANGAN UBAH-UBAH INFO!!!
-const aktif = 'Tergantung Kuota Wifi'; // JANGAN UBAH-UBAH INFO!!!
+const aktif = 'Tergantung Selera'; // JANGAN UBAH-UBAH INFO!!!
 const groupwhatsapp = 'https://chat.whatsapp.com/Kjv5IWzNIeCBSaH4lJKX8v'; // JANGAN UBAH-UBAH INFO!!!
 const youtube = 'https://youtube.com/channel/UCat4laLWRIeTszIuCZ1_O1Q'; // JANGAN UBAH-UBAH INFO!!!
 //A187ID

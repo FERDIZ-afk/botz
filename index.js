@@ -127,7 +127,7 @@ conn.sendMessage(id ,`${gg} ${exists ? " exists " : " does not exist"} on WhatsA
 
 //ChatA187ID
 else if (text == 'assalamualaikum'){
-conn.sendMessage(id, ' _3aalaikumsalam, _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Waalaikumsalam, _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'salam'){
 conn.sendMessage(id, ' _Waalaikumsalam, Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
@@ -154,7 +154,7 @@ else if (text == '#owner'){
 conn.sendMessage(id, ' *Owner FADHLI bit.ly/ClickDiSinii* ' ,MessageType.text);
 }
 else if (text == '#help'){
-conn.sendMessage(id, ' *Menampilkan Fitur Menu!!!* ' ,MessageType.text);
+conn.sendMessage(id, ' *Menampilkan Fitur Menu Bukan Hati!!!* ' ,MessageType.text);
 }
 else if (text == '#menu1'){
 conn.sendMessage(id, ' *Menampilkan Fitur Menu1!!!* ' ,MessageType.text);

@@ -1,5 +1,8 @@
 ## ITSPAPOYBOTZ <img src="https://s7.gifyu.com/images/giphyd453822f10cd1ba6.gif" width="30px">  ![](https://visitor-badge.glitch.me/badge?page_id=itspapoy.botz)
 
+<!-- gif Image -->
+<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
+
 <p align="center">
 <img src="https://raw.github.com/itspapoy/botz/main/temp/IMG-20201208-WA0815.jpg" width="230" height="230"/>
 </p>

@@ -154,25 +154,25 @@ else if (text == '#owner'){
 conn.sendMessage(id, ' *Owner FADHLI bit.ly/ClickDiSinii* ' ,MessageType.text);
 }
 else if (text == '#help'){
-conn.sendMessage(id, ' *Menampilkan Fitur Menu Bukan Hati!!!* ' ,MessageType.text);
+conn.sendMessage(id, ' *Menampilkan Fitur btw Jangan Lupa Senyum Hari Ini!!!* ' ,MessageType.text);
 }
 else if (text == '#menu1'){
-conn.sendMessage(id, ' *Menampilkan Fitur Menu1!!!* ' ,MessageType.text);
+conn.sendMessage(id, ' *Menampilkan Menu1 Check!!!* ' ,MessageType.text);
 }
 else if (text == '#menu2'){
-conn.sendMessage(id, ' *Menampilkan Fitur Menu2!!!* ' ,MessageType.text);
+conn.sendMessage(id, ' *Menampilkan Menu2 Check!!!* ' ,MessageType.text);
 }
 else if (text == '#menu3'){
-conn.sendMessage(id, ' *Menampilkan Fitur Menu3!!!* ' ,MessageType.text);
+conn.sendMessage(id, ' *Menampilkan Menu3 Check!!!* ' ,MessageType.text);
 }
 else if (text == '#menu4'){
-conn.sendMessage(id, ' *Menampilkan Fitur Menu4!!!* ' ,MessageType.text);
+conn.sendMessage(id, ' *Menampilkan Menu4 Check!!!* ' ,MessageType.text);
 }
 else if (text == '#info'){
 conn.sendMessage(id, ' *Menampilkan Info!!!* ' ,MessageType.text);
 }
 else if (text == '#donasi'){
-conn.sendMessage(id, ' *Ah Mantab!!!* ' ,MessageType.text);
+conn.sendMessage(id, ' *Beneran nih mau donasi?* ' ,MessageType.text);
 }
 else if (text == '#creator'){
 conn.sendMessage(id, ' *Creator FADHLI bit.ly/ClickDiSinii* ' ,MessageType.text);
@@ -932,22 +932,22 @@ else if (text == '!foto'){
 conn.sendMessage(id, 'kirim !foto cewek/cowok\n\nContoh: !foto cewek' ,MessageType.text);
 }
 else if (text == '#help'){
-conn.sendMessage(id, ' _❉TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ*_ , Kalo Urgent klik:https://bit.ly/ClickDiSinii' ,MessageType.text);
+conn.sendMessage(id, ' _❉TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ*_ , Kalo Urgent klik:https://bit.ly/ClickDiSinii , *SEMOGA HARIMU MENYENANGKANツ*' ,MessageType.text);
 }
 else if (text == '#menu1'){
-conn.sendMessage(id, ' _❉TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ*_ , Kalo Urgent klik:https://bit.ly/ClickDiSinii' ,MessageType.text);
+conn.sendMessage(id, ' _❉TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ*_ , Kalo Urgent klik:https://bit.ly/ClickDiSinii , *SEMOGA HARIMU MENYENANGKANツ*' ,MessageType.text);
 }
 else if (text == '#menu'){
-conn.sendMessage(id, ' _❉TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ*_ , Kalo Urgent klik:https://bit.ly/ClickDiSinii' ,MessageType.text);
+conn.sendMessage(id, ' _❉TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ*_ , Kalo Urgent klik:https://bit.ly/ClickDiSinii , *SEMOGA HARIMU MENYENANGKANツ*' ,MessageType.text);
 }
 else if (text == '#menu2'){
-conn.sendMessage(id, ' _❉TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ*_ , Kalo Urgent klik:https://bit.ly/ClickDiSinii' ,MessageType.text);
+conn.sendMessage(id, ' _❉TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ*_ , Kalo Urgent klik:https://bit.ly/ClickDiSinii , *SEMOGA HARIMU MENYENANGKANツ*' ,MessageType.text);
 }
 else if (text == '#menu3'){
-conn.sendMessage(id, ' _❉TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ*_ , Kalo Urgent klik:https://bit.ly/ClickDiSinii' ,MessageType.text);
+conn.sendMessage(id, ' _❉TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ*_ , Kalo Urgent klik:https://bit.ly/ClickDiSinii , *SEMOGA HARIMU MENYENANGKANツ*' ,MessageType.text);
 }
 else if (text == '#menu4'){
-conn.sendMessage(id, ' _❉TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ*_ , Kalo Urgent klik:https://bit.ly/ClickDiSinii' ,MessageType.text);
+conn.sendMessage(id, ' _❉TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ*_ , Kalo Urgent klik:https://bit.ly/ClickDiSinii , *SEMOGA HARIMU MENYENANGKANツ*' ,MessageType.text);
 }
    if (messageType == 'imageMessage')
    {

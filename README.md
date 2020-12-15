@@ -185,7 +185,7 @@ Ket: Aktif
 * [`Donasi ITSPAPOYBOTZ`](https://bit.ly/ClickDiSinii)
 
 
-## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px">
+## CONTACT <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px">
 
 * [`Instagram Admin`](https://instagram.com/itspapoy)
 * [`Contact `](https://bit.ly/ClikDiSinii)
@@ -199,6 +199,7 @@ Ket: Aktif
 * [`Alfbot`](https://github.com/alfiansx/alfbot)
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" alt="dinoeskrimenak" width="600" />
 
+# MEDIA
 <p align="center">
 <a href="https://github.com/itspapoy" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 

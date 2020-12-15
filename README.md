@@ -199,10 +199,9 @@ Ket: Aktif
 * [`Alfbot`](https://github.com/alfiansx/alfbot)
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" alt="dinoeskrimenak" width="600" />
 
-```bash
+══════════════════════════════════════════════════════════
 <p align="center">
 <a href="https://github.com/itspapoy" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 
 <p align="center">
 <a href="https://www.instagram.com/itspapoy"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
-```

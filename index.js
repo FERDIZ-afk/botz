@@ -11,7 +11,7 @@
 const A187 = 'ITSPAPOYBOTZ'; // JANGAN UBAH-UBAH INFO!!!
 const instagram = 'https://instagram.com/itspapoy'; // JANGAN UBAH-UBAH INFO!!!
 const nomer = '087714745440'; // JANGAN UBAH-UBAH INFO!!!
-const aktif = 'Tergantung Selera'; // JANGAN UBAH-UBAH INFO!!!
+const aktif = 'SELERAKU'; // JANGAN UBAH-UBAH INFO!!!
 const groupwhatsapp = 'https://chat.whatsapp.com/Kjv5IWzNIeCBSaH4lJKX8v'; // JANGAN UBAH-UBAH INFO!!!
 const youtube = 'https://youtube.com/channel/UCat4laLWRIeTszIuCZ1_O1Q'; // JANGAN UBAH-UBAH INFO!!!
 //A187ID
@@ -190,7 +190,7 @@ else if (text == 'Malam'){
 conn.sendMessage(id, ' _Malam juga, Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'Ngentod'){
-conn.sendMessage(id, 'Pengin ngentod? babi looo' ,MessageType.text);
+conn.sendMessage(id, 'Pingin ngentod? babi looo' ,MessageType.text);
 }
 else if (text == 'Anjg'){
 conn.sendMessage(id, 'Jangan toxic anjing,kntl,babi,monyet' ,MessageType.text);
@@ -213,8 +213,8 @@ conn.sendMessage(id, ' _Iyah dahdah disini kak...ada yang bisa kami bantu? Ketik
 else if (text == 'Hi'){
 conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
-else if (text == 'Gan'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+else if (text == 'gblk'){
+conn.sendMessage(id, ' _Bukanya lu ya? awokwok Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'Sis'){
 conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
@@ -228,10 +228,10 @@ conn.sendMessage(id, ' Ngogheyyyyyyyyy 🤯 ' ,MessageType.text);
 else if (text == 'Sayang'){
 conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
-else if (text == 'I love u'){
+else if (text == 'Iy'){
 conn.sendMessage(id, ' _love you too👻_ ' ,MessageType.text);
 }
-else if (text == 'Mas'){
+else if (text == 'iya'){
 conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'Mba'){
@@ -240,10 +240,10 @@ conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#
 else if (text == 'Kamu'){
 conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
-else if (text == 'Cuy'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+else if (text == 'aku'){
+conn.sendMessage(id, ' _Iyah kamu aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
-else if (text == 'Euy'){
+else if (text == 'woy'){
 conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'makasi'){
@@ -261,8 +261,8 @@ conn.sendMessage(id, ' _Sama sama, semoga harimu menyenangkan :)_ ' ,MessageType
 else if (text == 'thank'){
 conn.sendMessage(id, ' _Sama sama, semoga harimu menyenangkan :)_ ' ,MessageType.text);
 }
-else if (text == 'Thank'){
-conn.sendMessage(id, ' _Sama sama, semoga harimu menyenangkan :)_ ' ,MessageType.text);
+else if (text == 'Intro'){
+conn.sendMessage(id, ' _Intro yaa yg baru masuk grup, semoga hari²mu menyenangkan ,kalo mau menggunakan fitur ketik #help aja :)_ ' ,MessageType.text);
 }
 else if (text == 'thanks'){
 conn.sendMessage(id, ' _Sama sama, semoga harimu menyenangkan :)_ ' ,MessageType.text);
@@ -545,7 +545,7 @@ conn.sendMessage(id, '[WAIT] Searching...❗', MessageType.text)
 if (text.includes("!resep")){
 const teks = text.replace(/!resep /, "")
 axios.get(`https://masak-apa.tomorisakura.vercel.app/api/search/?q=${teks}`).then((res) => {
-	conn.sendMessage(id, '[WAIT] Searching...❗', MessageType.text)
+	conn.sendMessage(id, '[WAIT] Kalo ngga muncul berati fiturnya lagi Gajalan yaa say...❗', MessageType.text)
     let hasil = ` *Judul:* ${results.title}\n*Penulis:* ${results.author.user}\n*Rilis:* ${results.author.datePublished}\n*Level:* ${results.dificulty}\n*Waktu:* ${results.times}\n*Porsi:* ${results.servings}\n\n*Bahan-bahan:*\n${bahan}\n\n*Step-by-step:*\n${tutor}`;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
@@ -932,22 +932,22 @@ else if (text == '!foto'){
 conn.sendMessage(id, 'kirim !foto cewek/cowok\n\nContoh: !foto cewek' ,MessageType.text);
 }
 else if (text == '#help'){
-conn.sendMessage(id, ' _🦖TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ* , Kalo Urgent klik:https://bit.ly/ClickDiSinii' ,MessageType.text);
+conn.sendMessage(id, ' _❉TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ*_ , Kalo Urgent klik:https://bit.ly/ClickDiSinii' ,MessageType.text);
 }
 else if (text == '#menu1'){
-conn.sendMessage(id, ' _🦖TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ* , Kalo Urgent klik:https://bit.ly/ClickDiSinii' ,MessageType.text);
+conn.sendMessage(id, ' _❉TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ*_ , Kalo Urgent klik:https://bit.ly/ClickDiSinii' ,MessageType.text);
 }
 else if (text == '#menu'){
-conn.sendMessage(id, ' _🦖TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ* , Kalo Urgent klik:https://bit.ly/ClickDiSinii' ,MessageType.text);
+conn.sendMessage(id, ' _❉TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ*_ , Kalo Urgent klik:https://bit.ly/ClickDiSinii' ,MessageType.text);
 }
 else if (text == '#menu2'){
-conn.sendMessage(id, ' _🦖TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ* , Kalo Urgent klik:https://bit.ly/ClickDiSinii' ,MessageType.text);
+conn.sendMessage(id, ' _❉TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ*_ , Kalo Urgent klik:https://bit.ly/ClickDiSinii' ,MessageType.text);
 }
 else if (text == '#menu3'){
-conn.sendMessage(id, ' _🦖TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ* , Kalo Urgent klik:https://bit.ly/ClickDiSinii' ,MessageType.text);
+conn.sendMessage(id, ' _❉TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ*_ , Kalo Urgent klik:https://bit.ly/ClickDiSinii' ,MessageType.text);
 }
 else if (text == '#menu4'){
-conn.sendMessage(id, ' _🦖TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ* , Kalo Urgent klik:https://bit.ly/ClickDiSinii' ,MessageType.text);
+conn.sendMessage(id, ' _❉TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ*_ , Kalo Urgent klik:https://bit.ly/ClickDiSinii' ,MessageType.text);
 }
    if (messageType == 'imageMessage')
    {
@@ -1122,11 +1122,11 @@ if (text.includes("!pokemon"))
             `
       Arti dari nama *${nama}* adalah
 
-❉──────────❉
+❉──────────────❉
 
          Nama _*${nama}*_ _${h}_
          
-❉──────────❉
+❉──────────────❉
 
 `,
  MessageType.text);
@@ -1152,7 +1152,7 @@ if (text.includes("!pokemon"))
       console.log(""+ d);
       conn.sendMessage(id, `
 
-❉──────────❉
+❉──────────────❉
 
  *Kecocokan berdasarkan nama*
 
@@ -1160,7 +1160,7 @@ if (text.includes("!pokemon"))
  _${d}_
 
 
-❉──────────❉
+❉──────────────❉
     `, MessageType.text);
   });
   }
@@ -1258,7 +1258,7 @@ if (text.includes("!lirik")){
 	const teks = text.replace(/!lirik /, "")
 	axios.get(`https://arugaz.herokuapp.com/api/lirik?judul=${teks}`).then ((res) => {
 	     conn.sendMessage(id, '[WAIT] Searching...❗', MessageType.text)
-	 	let hasil = ` *🎧Lirik🎧 Lagu ${teks}:* \n\n\n _${res.data.result}_ `
+	 	let hasil = ` *『Lirik Lagu』 ${teks}:* \n\n\n _${res.data.result}_ `
 	conn.sendMessage(id, hasil, MessageType.text)
 	})
 }

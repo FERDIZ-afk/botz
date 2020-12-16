@@ -1,6 +1,4 @@
 ## ITSPAPOYBOTZ <img src="https://s7.gifyu.com/images/giphyd453822f10cd1ba6.gif" width="30px"> 
-
-<p align="right">
 ![](https://visitor-badge.glitch.me/badge?page_id=itspapoy.botz)
 
 <p align="center">

@@ -312,7 +312,7 @@ if (text.includes("!infoig")){
   const teks = text.replace(/!infoig /, "")
   axios.get(`https://alfians-api.herokuapp.com/api/stalk?username=${teks}`).then ((res) =>{
   conn.sendMessage(id, '[WAIT] Searching...⏳', MessageType.text)
-  let hasil = `BIODATA INSTAGRAM ATAS NAMA _${teks}_ \n\n *Username✍️* : _${res.data.Username}_ \n *Nama✍️* : _${res.data.Name}_ \n *Jumlah Followers✍️* : _${res.data.Jumlah_Followers}_ \n *Jumlah Following✍️* : _${res.data.Jumlah_Following}_ \n *Jumlah Post✍️* : _${res.data.Jumlah_Post}_ `;
+  let hasil = `BIODATA INSTAGRAM ATAS NAMA _${teks}_ \n\n *Username🐒* : _${res.data.Username}_ \n *Nama🐒* : _${res.data.Name}_ \n *Jumlah Followers🐵* : _${res.data.Jumlah_Followers}_ \n *Jumlah Following🐵* : _${res.data.Jumlah_Following}_ \n *Jumlah Post🐵* : _${res.data.Jumlah_Post}_ `;
   conn.sendMessage(id, hasil, MessageType.text);
 })
 }
@@ -538,7 +538,7 @@ if (text.includes("!covid")){
 const teks = text.replace(/!covid /, "")
 axios.get(`https://arugaz.herokuapp.com/api/coronaindo`).then((res) => {
 conn.sendMessage(id, '[WAIT] Searching...❗', MessageType.text)
-    let hasil = ` *🔎DATA WABAH COVID-19 TERBARU DI INDONESIA🔍* \n\n *Kasus Baru* : _${res.data.kasus_baru}_ \n\n *Kasus Total* : _${res.data.kasus_total}_ \n\n *Meninggal* : _${res.data.meninggal}_ \n\n *Negara* : _${res.data.negara}_ \n\n *Penanganan* : _${res.data.penanganan}_ \n\n *Sembuh* : _${res.data.sembuh}_ \n\n *Terakhir* : _${res.data.terakhir}_ `;
+    let hasil = ` *⚠️DATA KORONCE TERBARU DI INDONESIA⚠️* \n\n *Kasus Baru* : _${res.data.kasus_baru}_ \n\n *Kasus Total* : _${res.data.kasus_total}_ \n\n *Meninggoy:"/* : _${res.data.meninggal}_ \n\n *Negara* : _${res.data.negara}_ \n\n *Penanganan* : _${res.data.penanganan}_ \n\n *Sembuh* : _${res.data.sembuh}_ \n\n *Terakhir* : _${res.data.terakhir}_ `;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
 }
@@ -595,7 +595,7 @@ var tampilTanggal = "TANGGAL: " + hari + ", " + tanggal + " " + bulan + " " + ta
 var tampilWaktu = "JAM: " + jam + ":" + menit + ":" + detik;
 conn.sendMessage(id, aris.aris(id, A187, corohelp, tampilTanggal, tampilWaktu, instagram, nomer, aktif, groupwhatsapp, youtube) ,MessageType.text);
 }
-if (text == '#menu1'){
+if (text == '.menu1'){
 const corohelp = await get.get('https://covid19.mathdro.id/api/countries/id').json()
 var date = new Date();
 var tahun = date.getFullYear();
@@ -632,7 +632,7 @@ var tampilTanggal = "TANGGAL: " + hari + ", " + tanggal + " " + bulan + " " + ta
 var tampilWaktu = "JAM: " + jam + ":" + menit + ":" + detik;
 conn.sendMessage(id, aris1.aris1(id, A187, corohelp, tampilTanggal, tampilWaktu, instagram, nomer, aktif, groupwhatsapp, youtube) ,MessageType.text);
 }
-if (text == '#menu2'){
+if (text == '.menu2'){
 const corohelp = await get.get('https://covid19.mathdro.id/api/countries/id').json()
 var date = new Date();
 var tahun = date.getFullYear();
@@ -669,7 +669,7 @@ var tampilTanggal = "TANGGAL: " + hari + ", " + tanggal + " " + bulan + " " + ta
 var tampilWaktu = "JAM: " + jam + ":" + menit + ":" + detik;
 conn.sendMessage(id, aris2.aris2(id, A187, corohelp, tampilTanggal, tampilWaktu, instagram, nomer, aktif, groupwhatsapp, youtube) ,MessageType.text);
 }
-if (text == '#menu3'){
+if (text == '.menu3'){
 const corohelp = await get.get('https://covid19.mathdro.id/api/countries/id').json()
 var date = new Date();
 var tahun = date.getFullYear();
@@ -706,7 +706,7 @@ var tampilTanggal = "TANGGAL: " + hari + ", " + tanggal + " " + bulan + " " + ta
 var tampilWaktu = "JAM: " + jam + ":" + menit + ":" + detik;
 conn.sendMessage(id, aris3.aris3(id, A187, corohelp, tampilTanggal, tampilWaktu, instagram, nomer, aktif, groupwhatsapp, youtube) ,MessageType.text);
 }
-if (text == '#menu4'){
+if (text == '.menu4'){
 const corohelp = await get.get('https://covid19.mathdro.id/api/countries/id').json()
 var date = new Date();
 var tahun = date.getFullYear();
@@ -934,19 +934,19 @@ conn.sendMessage(id, 'kirim !foto cewek/cowok\n\nContoh: !foto cewek' ,MessageTy
 else if (text == '#help'){
 conn.sendMessage(id, ' _❉TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ*_ , Kalo Urgent klik:https://bit.ly/ClickDiSinii , *SEMOGA HARIMU MENYENANGKANツ*' ,MessageType.text);
 }
-else if (text == '#menu1'){
+else if (text == '.menu1'){
 conn.sendMessage(id, ' _❉TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ*_ , Kalo Urgent klik:https://bit.ly/ClickDiSinii , *SEMOGA HARIMU MENYENANGKANツ*' ,MessageType.text);
 }
-else if (text == '#menu'){
+else if (text == '.menu'){
 conn.sendMessage(id, ' _❉TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ*_ , Kalo Urgent klik:https://bit.ly/ClickDiSinii , *SEMOGA HARIMU MENYENANGKANツ*' ,MessageType.text);
 }
-else if (text == '#menu2'){
+else if (text == '.menu2'){
 conn.sendMessage(id, ' _❉TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ*_ , Kalo Urgent klik:https://bit.ly/ClickDiSinii , *SEMOGA HARIMU MENYENANGKANツ*' ,MessageType.text);
 }
-else if (text == '#menu3'){
+else if (text == '.menu3'){
 conn.sendMessage(id, ' _❉TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ*_ , Kalo Urgent klik:https://bit.ly/ClickDiSinii , *SEMOGA HARIMU MENYENANGKANツ*' ,MessageType.text);
 }
-else if (text == '#menu4'){
+else if (text == '.menu4'){
 conn.sendMessage(id, ' _❉TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ*_ , Kalo Urgent klik:https://bit.ly/ClickDiSinii , *SEMOGA HARIMU MENYENANGKANツ*' ,MessageType.text);
 }
    if (messageType == 'imageMessage')
@@ -1122,11 +1122,11 @@ if (text.includes("!pokemon"))
             `
       Arti dari nama *${nama}* adalah
 
-❉──────────────❉
+❉──────────────────────────❉
 
          Nama _*${nama}*_ _${h}_
          
-❉──────────────❉
+❉──────────────────────────❉
 
 `,
  MessageType.text);
@@ -1152,7 +1152,7 @@ if (text.includes("!pokemon"))
       console.log(""+ d);
       conn.sendMessage(id, `
 
-❉──────────────❉
+❉────────────────────────❉
 
  *Kecocokan berdasarkan nama*
 
@@ -1160,7 +1160,7 @@ if (text.includes("!pokemon"))
  _${d}_
 
 
-❉──────────────❉
+❉────────────────────────❉
     `, MessageType.text);
   });
   }

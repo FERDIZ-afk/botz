@@ -538,7 +538,7 @@ if (text.includes("!covid")){
 const teks = text.replace(/!covid /, "")
 axios.get(`https://arugaz.herokuapp.com/api/coronaindo`).then((res) => {
 conn.sendMessage(id, '[WAIT] Searching...❗', MessageType.text)
-    let hasil = ` *⚠️DATA KORONCE TERBARU DI INDONESIA⚠️* \n\n *Kasus Baru* : _${res.data.kasus_baru}_ \n\n *Kasus Total* : _${res.data.kasus_total}_ \n\n *Meninggoy:"/* : _${res.data.meninggal}_ \n\n *Negara* : _${res.data.negara}_ \n\n *Penanganan* : _${res.data.penanganan}_ \n\n *Sembuh* : _${res.data.sembuh}_ \n\n *Terakhir* : _${res.data.terakhir}_ `;
+    let hasil = ` *⚠️DATA KORONCE TERBARU DI INDONESIA* \n\n ➤ *Kasus Baru* : _${res.data.kasus_baru}_ \n\n ➤ *Total Kasus* : _${res.data.kasus_total}_ \n\n ➤ *Meninggoy:(* : _${res.data.meninggal}_ \n\n ➤ *Negara* : _${res.data.negara}_ \n\n ➤ *Penanganan* : _${res.data.penanganan}_ \n\n ➤ *Sembuh Dari Koronce* : _${res.data.sembuh}_ \n\n ➤ *TerakhirUpdate* : _${res.data.terakhir}_ `;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
 }
@@ -937,8 +937,8 @@ conn.sendMessage(id, ' _❉TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ*_ , K
 else if (text == '.menu1'){
 conn.sendMessage(id, ' _❉TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ*_ , Kalo Urgent klik:https://bit.ly/ClickDiSinii , *SEMOGA HARIMU MENYENANGKANツ*' ,MessageType.text);
 }
-else if (text == '.menu'){
-conn.sendMessage(id, ' _❉TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ*_ , Kalo Urgent klik:https://bit.ly/ClickDiSinii , *SEMOGA HARIMU MENYENANGKANツ*' ,MessageType.text);
+else if (text == '!covid'){
+conn.sendMessage(id, ' _Doain yaa semoga koronce ini semoga berakhir *Aaminn*_ , mwehehe makasi , *SEMOGA HARIMU MENYENANGKANツ*' ,MessageType.text);
 }
 else if (text == '.menu2'){
 conn.sendMessage(id, ' _❉TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ*_ , Kalo Urgent klik:https://bit.ly/ClickDiSinii , *SEMOGA HARIMU MENYENANGKANツ*' ,MessageType.text);

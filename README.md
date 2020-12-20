@@ -181,11 +181,10 @@ Siapin alat dan bahannya.
 |       ✅       | Info                             |
 |       ✅       | Donate                           |
 |       ✅       | 18+.                             |
-|       🔧       | V.txt                            |
+|       🔧       | V.txt (new)                      |
 |                   MORE  Fitur                     |
 
-Ket: Aktif
-Ket: Service
+Ket: (✅) Aktif (🔧) Service
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
 * [`Donasi ITSPAPOYBOTZ`](https://bit.ly/ClickDiSinii)

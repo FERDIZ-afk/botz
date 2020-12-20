@@ -157,6 +157,18 @@ conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#
 else if (text == 'Asu'){
 conn.sendMessage(id, 'Lu Asw' ,MessageType.text);
 }
+case 'creator':
+
+       case 'owner':
+
+       client.sendMessage(id, {displayname: "Jeff", vcard: vcard}, MessageType.contact)
+
+       client.sendMessage(id, 'Nieh nomer owner/creator,chat ajah terus di save, nanti di back kok kak ><',MessageType.text)
+
+           await client.sendMessage(id, value,MessageType.text)
+
+           break
+}
 else if (text == '#owner'){
 conn.sendMessage(id, ' *Owner FADHLI bit.ly/ClickDiSinii* ' ,MessageType.text);
 }

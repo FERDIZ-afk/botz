@@ -181,8 +181,8 @@ Siapin alat dan bahannya.
 |       ✅       | Info                             |
 |       ✅       | Donate                           |
 |       ✅       | 18+.                             |
-|       🔧       | V.txt (new)                      |
-|                   MORE  Fitur                     |
+|       🔧       | V.txtঔৣ͜͡҉ (new)                      |
+|                   More  Fitur                     |
 
 Ket: (✅) Aktif (🔧) Service
 

@@ -35,7 +35,7 @@
 
 ![Releases|0.0](https://img.shields.io/badge/Releases-Des2020-silver.svg)
 ![Github|0.0](https://img.shields.io/badge/itspapoy-botz-black.svg)
-![Githun|0.0](https://img.shields.io/badge/Github-Inc-blank.svg)
+![Github|0.0](https://img.shields.io/badge/Github-Inc-blank.svg)
 ![](https://github-badge.glitch.me/badge?page_id=itspapoy.botz-green.svg)
 
 <a href="https://circleci.com/gh/gjbae1212/hit-counter"><img src="https://circleci.com/gh/gjbae1212/hit-counter.svg?style=svg"></a>

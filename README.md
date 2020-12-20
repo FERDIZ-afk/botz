@@ -30,7 +30,7 @@
 <br />
 ![Releases|0.0](https://img.shields.io/badge/Releases-Des2020-silver.svg)
 ![Github|0.0](https://img.shields.io/badge/itspapoy-botz-black.svg)
-![Githun|0.0](https://img.shields.io/badge/Github-Inc-blank.svg)
+![Githun|0.0](https://img.shields.io/badge/Github-Inc-blank.svg)(https://github.com/itspapoy/botz)
 
 <a href="https://circleci.com/gh/gjbae1212/hit-counter"><img src="https://circleci.com/gh/gjbae1212/hit-counter.svg?style=svg"></a>
 <a href="/LICENSE"><img src="https://img.shields.io/badge/license-GPL-blue.svg" alt="license" /></a>

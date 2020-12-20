@@ -28,8 +28,8 @@
 ![WhatsApp_Web 2.20.206.24](https://img.shields.io/badge/WhatsApp_Web-2.20.206.24-brightgreen.svg)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Feslint%2Feslint.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Feslint%2Feslint?ref=badge_shield)
 <br />
-[![npm version](https://img.shields.io/npm/v/itspapoy.svg?color=%2378e08f)](https://www.npmjs.com/package/botz)
-![npm type definitions](https://img.shields.io/npm/types/botz)
+[![npm version](https://img.shields.io/npm/v/itspapoy.svg?color=%2378e08f)](https://www.npmjs.com/package/sulla)
+![npm type definitions](https://img.shields.io/npm/types/sulla)
 ![GitHub last commit](https://img.shields.io/github/last-commit/itspapoy/botz)
 [![GitHub license](https://img.shields.io/github/license/itsapoy/botz)](https://github.com/itspapoy/botz/blob/main/LICENSE)
 [![codebeat badge](https://codebeat.co/badges/7e510d47-8689-49da-abd8-a9a29d106a2b)](https://codebeat.co/projects/github-com-itspapoy-botz-main)

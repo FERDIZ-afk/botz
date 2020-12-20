@@ -17,6 +17,13 @@ const youtube = 'https://youtube.com/channel/UCat4laLWRIeTszIuCZ1_O1Q'; // JANGA
 //A187ID
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
+const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
+            + 'VERSION:3.0\n' 
+            + 'FN:Fadhli\n' // full name
+            + 'ORG:@itspapoy;\n' // the organization of the contact
+            + 'TEL;type=CELL;type=VOICE;waid=6287714745440:+62 877-1474-5440\n' // WhatsApp ID + phone number
+            + 'END:VCARD'
+
 const cheerio = require("cheerio");
 const get = require('got')
 const fs = require("fs");

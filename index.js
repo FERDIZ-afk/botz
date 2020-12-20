@@ -164,7 +164,7 @@ client.sendMessage(id, 'Nieh nomer owner/creator,chat ajah terus di save, nanti 
     await client.sendMessage(id, value,MessageType.text)
     break
 }
-else if (text == '#owner'){
+else if (text == '#Orang'){
 conn.sendMessage(id, ' *Owner FADHLI bit.ly/ClickDiSinii* ' ,MessageType.text);
 }
 else if (text == '#help'){
@@ -188,7 +188,7 @@ conn.sendMessage(id, ' *Menampilkan Info!!!* ' ,MessageType.text);
 else if (text == '#donasi'){
 conn.sendMessage(id, ' *Beneran nih mau donasi?* ' ,MessageType.text);
 }
-else if (text == '#creator'){
+else if (text == '#pembuat'){
 conn.sendMessage(id, ' *Creator FADHLI bit.ly/ClickDiSinii* ' ,MessageType.text);
 }
 else if (text == 'Pagi'){
@@ -212,7 +212,7 @@ conn.sendMessage(id, 'Jangan toxic anjing,kntl,babi,monyet' ,MessageType.text);
 else if (text == 'Bacot'){
 conn.sendMessage(id, ' *lu bacot_-* ' ,MessageType.text);
 }
-else if (text == 'Test'){
+else if (text == 'Wb'){
 conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'Hai'){
@@ -242,7 +242,7 @@ conn.sendMessage(id, ' Ngogheyyyyyyyyy 🤯 ' ,MessageType.text);
 else if (text == 'Sayang'){
 conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
-else if (text == 'Iy'){
+else if (text == 'Ily'){
 conn.sendMessage(id, ' _love you too👻_ ' ,MessageType.text);
 }
 else if (text == 'iya'){
@@ -272,7 +272,7 @@ conn.sendMessage(id, ' _Sama sama, semoga harimu menyenangkan :)_ ' ,MessageType
 else if (text == 'Makasih'){
 conn.sendMessage(id, ' _Sama sama, semoga harimu menyenangkan :)_ ' ,MessageType.text);
 }
-else if (text == 'thank'){
+else if (text == 'Iya'){
 conn.sendMessage(id, ' _Sama sama, semoga harimu menyenangkan :)_ ' ,MessageType.text);
 }
 else if (text == 'Intro'){

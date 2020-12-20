@@ -32,7 +32,7 @@
 ![npm type definitions](https://img.shields.io/npm/types/botz)
 ![GitHub last commit](https://img.shields.io/github/last-commit/itspapoy/botz)
 [![GitHub license](https://img.shields.io/github/license/itsapoy/botz)](https://github.com/itspapoy/botz/blob/master/LICENSE)
-[![codebeat badge](https://codebeat.co/badges/7e510d47-8689-49da-abd8-a9a29d106a2b)](https://codebeat.co/projects/github-com-itspapoy-botz-master)
+[![codebeat badge](https://codebeat.co/badges/7e510d47-8689-49da-abd8-a9a29d106a2b)](https://codebeat.co/projects/github-com-itspapoy-botz-main)
 
 ![Releases|0.0](https://img.shields.io/badge/Releases-Des2020-silver.svg)
 ![Github|0.0](https://img.shields.io/badge/itspapoy-botz-black.svg)

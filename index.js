@@ -23,7 +23,6 @@ const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'ORG:@itspapoy;\n' // the organization of the contact
             + 'TEL;type=CELL;type=VOICE;waid=6287714745440:+62 877-1474-5440\n' // WhatsApp ID + phone number
             + 'END:VCARD'
-
 const cheerio = require("cheerio");
 const get = require('got')
 const fs = require("fs");
@@ -157,10 +156,9 @@ conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#
 else if (text == 'Asu'){
 conn.sendMessage(id, 'Lu Asw' ,MessageType.text);
 }
-case 'creator':
-case 'owner':
-client.sendMessage(id, {displayname: "Jeff", vcard: vcard}, MessageType.contact)
-client.sendMessage(id, 'Nieh nomer owner/creator,chat ajah terus di save, nanti di back kok kak ><',MessageType.text)
+else if (text == 'creator'){
+conn.sendMessage(id, {displayname: "Jeff", vcard: vcard}, MessageType.contact)
+conn.sendMessage(id, 'Nieh nomer owner/creator,chat ajah terus di save, nanti di back kok kak ><' ,MessageType.text)
     await client.sendMessage(id, value,MessageType.text)
     break
 }
@@ -186,7 +184,7 @@ else if (text == '#info'){
 conn.sendMessage(id, ' *Menampilkan Info!!!* ' ,MessageType.text);
 }
 else if (text == '#donasi'){
-conn.sendMessage(id, ' *Beneran nih mau donasi?* ' ,MessageType.text);
+conn.sendMessage(id, ' *Menampilkan Fitur Donasi* ' ,MessageType.text);
 }
 else if (text == '#pembuat'){
 conn.sendMessage(id, ' *Creator FADHLI bit.ly/ClickDiSinii* ' ,MessageType.text);
@@ -221,8 +219,8 @@ conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#
 else if (text == 'Woi'){
 conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
-else if (text == 'dahdah'){
-conn.sendMessage(id, ' _Iyah dahdah disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+else if (text == 'bye'){
+conn.sendMessage(id, ' _Iyah dadah disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'Hi'){
 conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
@@ -236,7 +234,7 @@ conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#
 else if (text == 'Bro'){
 conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
-else if (text == 'oghey'){
+else if (text == 'Oghey'){
 conn.sendMessage(id, ' Ngogheyyyyyyyyy 🤯 ' ,MessageType.text);
 }
 else if (text == 'Sayang'){
@@ -254,10 +252,10 @@ conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#
 else if (text == 'Kamu'){
 conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
-else if (text == 'aku'){
+else if (text == 'Aku'){
 conn.sendMessage(id, ' _Iyah kamu aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
-else if (text == 'woy'){
+else if (text == 'Woy'){
 conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'makasi'){

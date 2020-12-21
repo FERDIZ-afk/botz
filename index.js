@@ -133,25 +133,25 @@ conn.sendMessage(id ,`${gg} ${exists ? " exists " : " does not exist"} on WhatsA
 
 //ChatA187ID
 else if (text == 'assalamualaikum'){
-conn.sendMessage(id, ' _Waalaikumsalam, _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' Waalaikumsalam, ada yang bisa kami bantu? Ketik %help untuk melihat fitur bot kami ' ,MessageType.text);
 }
 else if (text == 'salam'){
-conn.sendMessage(id, ' _Waalaikumsalam, Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' Waalaikumsalam, ada yang bisa kami bantu? Ketik %help untuk melihat fitur bot kami ' ,MessageType.text);
 }
 else if (text == 'asalamualaikum'){
-conn.sendMessage(id, ' _Waalaikumsalam, Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' Waalaikumsalam, ada yang bisa kami bantu? Ketik %help untuk melihat fitur bot kami ' ,MessageType.text);
 }
 else if (text == 'Assalamualaikum'){
-conn.sendMessage(id, ' _Waalaikumsalam, Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' Waalaikumsalam, ada yang bisa kami bantu? Ketik %help untuk melihat fitur bot kami ' ,MessageType.text);
 }
 else if (text == 'p'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' ada yang bisa kami bantu? Ketik %help untuk melihat fitur bot kami ' ,MessageType.text);
 }
 else if (text == 'P'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' ada yang bisa kami bantu? Ketik %help untuk melihat fitur bot kami ' ,MessageType.text);
 }
 else if (text == 'Halo'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' ada yang bisa kami bantu? Ketik %help untuk melihat fitur bot kami ' ,MessageType.text);
 }
 else if (text == 'Asu'){
 conn.sendMessage(id, 'Lu Asw' ,MessageType.text);
@@ -164,19 +164,7 @@ else if (text == 'Parah'){
 conn.sendMessage(id, ' *Emang parah batt parahh* ' ,MessageType.text);
 }
 else if (text == '%help'){
-conn.sendMessage(id, ' *Menampilkan Fitur btw Jangan Lupa Senyum Hari Ini!!!* ' ,MessageType.text);
-}
-else if (text == '#menu1'){
-conn.sendMessage(id, ' *Menampilkan Menu1 Check!!!* ' ,MessageType.text);
-}
-else if (text == '#menu2'){
-conn.sendMessage(id, ' *Menampilkan Menu2 Check!!!* ' ,MessageType.text);
-}
-else if (text == '#menu3'){
-conn.sendMessage(id, ' *Menampilkan Menu3 Check!!!* ' ,MessageType.text);
-}
-else if (text == '#menu4'){
-conn.sendMessage(id, ' *Menampilkan Menu4 Check!!!* ' ,MessageType.text);
+conn.sendMessage(id, ' *Waitt* ' ,MessageType.text);
 }
 else if (text == '%info'){
 conn.sendMessage(id, ' *Menampilkan Info!!!* ' ,MessageType.text);
@@ -188,16 +176,16 @@ else if (text == 'Kenapa'){
 conn.sendMessage(id, ' *Gpp* ' ,MessageType.text);
 }
 else if (text == 'Pagi'){
-conn.sendMessage(id, ' _Pagi juga, Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' Pagi juga, ada yang bisa kami bantu? Ketik %help untuk melihat fitur bot kami ' ,MessageType.text);
 }
 else if (text == 'Siang'){
-conn.sendMessage(id, ' _Siang juga, Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' Siang juga, ada yang bisa kami bantu? Ketik %help untuk melihat fitur bot kami ' ,MessageType.text);
 }
 else if (text == 'Sore'){
-conn.sendMessage(id, ' _Sore juga, Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' Sore juga, ada yang bisa kami bantu? Ketik %help untuk melihat fitur bot kami ' ,MessageType.text);
 }
 else if (text == 'Malam'){
-conn.sendMessage(id, ' _Malam juga, Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' Malam juga, ada yang bisa kami bantu? Ketik %help untuk melihat fitur bot kami ' ,MessageType.text);
 }
 else if (text == 'Ngentd'){
 conn.sendMessage(id, 'Pingin ngentod? babi looo' ,MessageType.text);
@@ -236,25 +224,25 @@ else if (text == 'Oghey'){
 conn.sendMessage(id, ' Ngogheyyyyyyyyy 🤯 ' ,MessageType.text);
 }
 else if (text == 'Sayang'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' ada yang bisa kami bantu? Ketik %help untuk melihat fitur bot kami ' ,MessageType.text);
 }
 else if (text == 'Ily'){
 conn.sendMessage(id, ' _love you too👻_ ' ,MessageType.text);
 }
 else if (text == 'iya'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' ada yang bisa kami bantu? Ketik %help untuk melihat fitur bot kami ' ,MessageType.text);
 }
 else if (text == 'Mba'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' ada yang bisa kami bantu? Ketik %help untuk melihat fitur bot kami ' ,MessageType.text);
 }
 else if (text == 'Kamu'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' ada yang bisa kami bantu? Ketik %help untuk melihat fitur bot kami ' ,MessageType.text);
 }
 else if (text == 'Aku'){
-conn.sendMessage(id, ' _Iyah kamu aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' ada yang bisa kami bantu? Ketik %help untuk melihat fitur bot kami  ' ,MessageType.text);
 }
 else if (text == 'Woy'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' ada yang bisa kami bantu? Ketik %help untuk melihat fitur bot kami ' ,MessageType.text);
 }
 else if (text == 'makasi'){
 conn.sendMessage(id, ' _Sama sama, semoga harimu menyenangkan :)_ ' ,MessageType.text);
@@ -272,7 +260,7 @@ else if (text == 'Iya'){
 conn.sendMessage(id, ' _Sama sama, semoga harimu menyenangkan :)_ ' ,MessageType.text);
 }
 else if (text == 'Intro'){
-conn.sendMessage(id, ' _Intro yaa yg baru masuk grup, semoga hari²mu menyenangkan ,kalo mau menggunakan fitur ketik #help aja :)_ ' ,MessageType.text);
+conn.sendMessage(id, ' Intro yaa yg baru masuk grup, semoga hari²mu menyenangkan ,kalo mau menggunakan fitur ketik %help aja ツ ' ,MessageType.text);
 }
 else if (text == 'thanks'){
 conn.sendMessage(id, ' _Sama sama, semoga harimu menyenangkan :)_ ' ,MessageType.text);
@@ -944,21 +932,28 @@ conn.sendMessage(id, 'kirim !foto cewek/cowok\n\nContoh: !foto cewek' ,MessageTy
 else if (text == '%help'){
 conn.sendMessage(id, ' _❉TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ*_ , Kalo Urgent klik:https://bit.ly/ClickDiSinii , *SEMOGA HARIMU MENYENANGKANツ*' ,MessageType.text);
 }
-else if (text == '.menu1'){
-conn.sendMessage(id, ' _❉TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ*_ , Kalo Urgent klik:https://bit.ly/ClickDiSinii , *SEMOGA HARIMU MENYENANGKANツ*' ,MessageType.text);
+else if (text == 'menu'){
+conn.sendMessage(id, ' HAI.., Thanks udh mampir di *ITSPAPOYBOTZ*
+
+Silahkan ketik *%help* 
+untuk menampilkan menu
+==
+Ketik *%info* 
+untuk melihat info BOT
+==
+Ketik *%donate* 
+untuk melihat menu donasi
+==
+
+IZIN OWNER ITSPAPOYBOTZ DULU KALO MO MASUKIN KE GRUP
+
+Owner Itspapoy
+wa.me/+6287714745440' ,MessageType.text);
 }
 else if (text == '%covid'){
 conn.sendMessage(id, ' _Doain yaa semoga koronce ini semoga berakhir *Aaminn*_ , mwehehe makasi , *SEMOGA HARIMU MENYENANGKANツ*' ,MessageType.text);
 }
-else if (text == '.menu2'){
-conn.sendMessage(id, ' _❉TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ*_ , Kalo Urgent klik:https://bit.ly/ClickDiSinii , *SEMOGA HARIMU MENYENANGKANツ*' ,MessageType.text);
-}
-else if (text == '.menu3'){
-conn.sendMessage(id, ' _❉TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ*_ , Kalo Urgent klik:https://bit.ly/ClickDiSinii , *SEMOGA HARIMU MENYENANGKANツ*' ,MessageType.text);
-}
-else if (text == '.menu4'){
-conn.sendMessage(id, ' _❉TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ*_ , Kalo Urgent klik:https://bit.ly/ClickDiSinii , *SEMOGA HARIMU MENYENANGKANツ*' ,MessageType.text);
-}
+
    if (messageType == 'imageMessage')
    {
       let caption = imageMessage.caption.toLocaleLowerCase()

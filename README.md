@@ -1,4 +1,4 @@
-### ITSPAPOYBOTZ <img src="https://s7.gifyu.com/images/giphyd453822f10cd1ba6.gif" width="30px">  ![](https://visitor-badge.glitch.me/badge?page_id=itspapoy.botz)
+### <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" />ITSPAPOYBOTZ <img src="https://s7.gifyu.com/images/giphyd453822f10cd1ba6.gif" width="30px">  ![](https://visitor-badge.glitch.me/badge?page_id=itspapoy.botz)
 
 <p align="center">
 <img src="https://github.com/itspapoy/botz/blob/main/temp/IMG_20201221_122613.JPG" width="230" height="230"/>

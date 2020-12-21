@@ -156,9 +156,13 @@ conn.sendMessage(id, ' ada yang bisa kami bantu? Ketik %help untuk melihat fitur
 else if (text == 'Asu'){
 conn.sendMessage(id, 'Lu Asw' ,MessageType.text);
 }
+else if (text == '%owner'){
+conn.sendMessage(id, {displayname: "Jeff", vcard: vcard}, MessageType.contact)
+conn.sendMessage(id, 'Nieh nomer owner/creator,chat ajah terus di save, nanti di back kok mwehhe ><' ,MessageType.text)
+}
 else if (text == '%creator'){
 conn.sendMessage(id, {displayname: "Jeff", vcard: vcard}, MessageType.contact)
-conn.sendMessage(id, 'Nieh nomer owner/creator,chat ajah terus di save, nanti di back kok kak ><' ,MessageType.text)
+conn.sendMessage(id, 'Nieh nomer owner/creator,chat ajah terus di save, nanti di back kok mwehhe ><' ,MessageType.text)
 }
 else if (text == 'Parah'){
 conn.sendMessage(id, ' *Emang parah batt parahh* ' ,MessageType.text);
@@ -232,8 +236,14 @@ conn.sendMessage(id, ' _love you too👻_ ' ,MessageType.text);
 else if (text == 'iya'){
 conn.sendMessage(id, ' ada yang bisa kami bantu? Ketik %help untuk melihat fitur bot kami ' ,MessageType.text);
 }
-else if (text == 'Mba'){
-conn.sendMessage(id, ' ada yang bisa kami bantu? Ketik %help untuk melihat fitur bot kami ' ,MessageType.text);
+else if (text == '%update'){
+conn.sendMessage(id, ' 
+Check Update New
+- Bot Curhat 
+Ketik %request untuk free curhat , ikuti langkah²nya' ,MessageType.text);
+}
+else if (text == '%request'){
+conn.sendMessage(id, ' iyaa mau curhatkan? silahkan curhat sampai selesai dan nanti saya akan mendengarkan setelah itu saya akan menjawabnya thx>< ' ,MessageType.text);
 }
 else if (text == 'Kamu'){
 conn.sendMessage(id, ' ada yang bisa kami bantu? Ketik %help untuk melihat fitur bot kami ' ,MessageType.text);
@@ -943,6 +953,9 @@ untuk melihat info BOT
 ==
 Ketik *%donate* 
 untuk melihat menu donasi
+==
+Ketik *%update*
+Untuk check update BOT
 ==
 
 IZIN OWNER ITSPAPOYBOTZ DULU KALO MO MASUKIN KE GRUP

@@ -8,12 +8,12 @@
 * ITSPAPOY BOTZ
 * BOLEH UBAH TAPI KECUALI INFO!!!
 */
-const A187 = 'ITSPAPOYBOTZツ'; // JANGAN UBAH-UBAH INFO!!!
+const A187 = 'ITSPAPOYBOTZツ'; // JANGAN UBAH INFO!!!
 const instagram = 'https://instagram.com/itspapoy'; // JANGAN UBAH-UBAH INFO!!!
-const nomer = '087714745440'; // JANGAN UBAH-UBAH INFO!!!
-const aktif = 'Tergantung Owner'; // JANGAN UBAH-UBAH INFO!!!
-const groupwhatsapp = 'https://chat.whatsapp.com/Kjv5IWzNIeCBSaH4lJKX8v'; // JANGAN UBAH-UBAH INFO!!!
-const youtube = 'https://youtube.com/channel/UCat4laLWRIeTszIuCZ1_O1Q'; // JANGAN UBAH-UBAH INFO!!!
+const nomer = '087714745440'; // JANGAN UBAH INFO!!!
+const aktif = 'Tergantung Owner'; // JANGAN UBAH INFO!!!
+const groupwhatsapp = 'https://chat.whatsapp.com/Kjv5IWzNIeCBSaH4lJKX8v'; // JANGAN UBAH INFO!!!
+const youtube = 'https://youtube.com/channel/UCat4laLWRIeTszIuCZ1_O1Q'; // JANGAN UBAH INFO!!!
 //A187ID
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
@@ -1288,7 +1288,7 @@ if (text.includes("%alay")){
 	})
 }
 
-//Tolonglah bro jangan di ubah ubah ITSPAPOY BOTZ
+//Tolonglah bro jangan di ubah ubah cape batt sumpah anjim 
 
 
 })

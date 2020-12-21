@@ -223,7 +223,7 @@ Ket: (✅) Aktif (🔧) Service
 * [`Alfbot`](https://github.com/alfiansx/alfbot)
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" alt="dinoeskrimenak" width="600" />
 
-◣════════════════════════◢
+◣═══════════════════════◢
 <p align="center">
 <a href="https://github.com/itspapoy" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 
@@ -231,6 +231,7 @@ Ket: (✅) Aktif (🔧) Service
 <a href="https://www.instagram.com/itspapoy"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
 
 ##ITEM
+
 <img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
 <img align="left" alt="Flask" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/flask.svg" />
 <img align="left" alt="Dart" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/dart.svg" />
@@ -246,5 +247,3 @@ Ket: (✅) Aktif (🔧) Service
 <img align="left" alt="CSS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css3.svg" />
 <br>
 <br>
-
- ⃟ ⃟ৡ¤͜͡҈➢

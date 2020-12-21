@@ -230,7 +230,7 @@ Ket: (✅) Aktif (🔧) Service
 <p align="center">
 <a href="https://www.instagram.com/itspapoy"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
 
-##  ⃟ ⃟ৡৢ¤͜͡҈ITEM ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/itspapoy/&title=Profile%20Views)
+##  ⃟ ⃟ৡৢ¤͜͡҈ITEM ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/itspapoy/&title=Hits%20Views)
 
 <img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
 <img align="left" alt="Flask" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/flask.svg" />

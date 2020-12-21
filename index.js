@@ -963,7 +963,7 @@ conn.sendMessage(id, ' _❉TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ*_ , K
    {
       let caption = imageMessage.caption.toLocaleLowerCase()
       const buffer = await conn.downloadMediaMessage(m) // to decrypt & use as a buffer
-      if (caption == '!sticker')
+      if (caption == '%sticker')
       {
          const stiker = await conn.downloadAndSaveMediaMessage(m) // to decrypt & save to file
 
@@ -983,7 +983,7 @@ conn.sendMessage(id, ' _❉TERIMAKASIH Telah Menggunakan BOT *ITSPAPOYBOTZ*_ , K
    {
       let is = m.message.conversation.toLocaleLowerCase()
 
-      if (is == '!pantun')
+      if (is == '%pantun')
       {
 
          fetch('https://raw.githubusercontent.com/pajaar/grabbed-results/master/pajaar-2020-pantun-pakboy.txt')
